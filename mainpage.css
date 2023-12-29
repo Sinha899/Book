@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+ text-align: center;
+    color:white;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+table{
+    text-align: left;
+    padding:15px;
+    border:3px solid white;
+    margin: 10px;
+    height: 500px;
+    float: left;
+}
+tr{
+    text-align: left;
+}
+td{
+    text-align: left;
+}
+div{
+    text-align: right;
+}
+img{
+    float:right;
+}
+img{
+    padding:7px;
+    margin:4px;
+}
